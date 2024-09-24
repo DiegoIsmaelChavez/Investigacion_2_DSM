@@ -1,6 +1,6 @@
 # Investigacion_2_DSM
 
-<h2>:wave: Equipo de EasyDining </h2>
+<h2>:wave: Equipo  </h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
